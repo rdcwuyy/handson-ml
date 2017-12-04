@@ -1,2 +1,3 @@
-model_checkpoint_path: "my_dropout_time_series_model"
-all_model_checkpoint_paths: "my_dropout_time_series_model"
+model_checkpoint_path: "my_model_cache_frozen.ckpt"
+all_model_checkpoint_paths: "my_model_one_at_a_time.ckpt"
+all_model_checkpoint_paths: "my_model_cache_frozen.ckpt"
